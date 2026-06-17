@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Myntra.ApplicationLayer/Myntra.ApplicationLayer.csproj" />
+  <Project Path="Myntra.BLL/Myntra.BLL.csproj" />
+  <Project Path="Myntra.DAL/Myntra.DAL.csproj" />
+  <Project Path="Myntra.Shared/Myntra.Shared.csproj" />
+</Solution>
